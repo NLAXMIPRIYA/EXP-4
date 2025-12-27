@@ -78,7 +78,9 @@ TABULAR COLUMN
 
 Full Wave Rectifier
 
-<img width="1280" height="526" alt="image" src="https://github.com/user-attachments/assets/b5613f95-2137-45a7-8a32-b8e70fe09d7f" />
+
+<img width="1280" height="526" alt="image" src="https://github.com/user-attachments/assets/4d166c91-39fa-448e-96be-512967b79940" />
+
 
 
 
